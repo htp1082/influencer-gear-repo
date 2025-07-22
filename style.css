@@ -16,4 +16,17 @@ nav,.bannar{
 
 .bannar{
     margin-top: 70px;
+    background-image: url("./images/Circle\ design.svg");
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: right;
+}
+
+
+.btn{
+    padding: 20px 40px;
+    background-color: #E02C6D;
+    color: white;
+    margin-top: 20px;
+    border-radius: 35px;
 }
